@@ -26,3 +26,5 @@ toy_robot_elixir-*.tar
 /tmp/
 
 .elixir_ls/
+
+.DS_Store
