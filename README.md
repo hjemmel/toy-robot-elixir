@@ -22,6 +22,18 @@ make test
 make dev
 ```
 
+### Running with docker directly
+
+```sh
+docker run --rm -it $(docker build -q .) iex -S mix
+```
+
+or for tests
+
+```sh
+docker run --rm -it $(docker build -q .) mix test --trace
+```
+
 ## How to use the application
 
 just type the commands in the terminal, like the example below:
