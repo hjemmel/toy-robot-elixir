@@ -1,6 +1,6 @@
 # ToyRobot Elixir
 
-Toy robot application based on the problem statement in (PROBLEM.md)[PROBLEM.md]
+Toy robot application based on the problem statement in [PROBLEM.md](PROBLEM.md)
 
 ## How to Run the application and the tests
 
